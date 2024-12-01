@@ -1,21 +1,15 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
+        stack<int> s;
         int n = nums.size();
-        vector<int> v;
-        bool foundNge = false;
-        for(int i=0; i<n; i++){
-            for(int j=(i+1)%n; j!=i; j = (j + 1) % n){
-                if(nums[j]>nums[i]){
-                    v.push_back(nums[j]);
-                    foundNge=true;
-                    break;
-                }
+        vector<int> v(n,-1);
+        for(int i=0; i<2*n; i++){
+            while(!s.empty() && nums[s.top()]<nums[i%n]){
+                v[s.top()]=nums[i%n];
+                s.pop();
             }
-            if(foundNge==false){
-                v.push_back(-1);
-            }
-            foundNge=false;
+            if(i<n) s.push(i%n);
         }
         return v;
     }
