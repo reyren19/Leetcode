@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/reyren19/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/reyren19/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/reyren19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/reyren19/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/reyren19/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reyren19/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/reyren19/Leetcode/tree/master/1184-car-pooling) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/reyren19/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
