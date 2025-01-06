@@ -153,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/reyren19/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/reyren19/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reyren19/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/reyren19/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/reyren19/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
