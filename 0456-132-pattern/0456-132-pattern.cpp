@@ -3,7 +3,6 @@ public:
     bool find132pattern(vector<int>& nums) {
         // num1<num3<num2
         int num3=INT_MIN;
-        int num2=INT_MIN;
         int n=nums.size();
         stack<int>st;
         for(int i=n-1; i>=0; --i){
