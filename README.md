@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/reyren19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reyren19/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/reyren19/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/reyren19/Leetcode/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/reyren19/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/reyren19/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reyren19/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/reyren19/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/reyren19/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/reyren19/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/reyren19/Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/reyren19/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/reyren19/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/reyren19/Leetcode/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/reyren19/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/reyren19/Leetcode/tree/master/1184-car-pooling) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/reyren19/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/reyren19/Leetcode/tree/master/1184-car-pooling) |
 ## Simulation
 |  |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reyren19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/reyren19/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/reyren19/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/reyren19/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reyren19/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
