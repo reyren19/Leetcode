@@ -11,6 +11,7 @@ public:
             }
             else{
                 count++;
+                // to make sure that earliest ending interval is taken to minimize overlaps
                 prevEnd = min(prevEnd, intervals[i][1]);
             }
             i++;
