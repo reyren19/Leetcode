@@ -1,16 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+    vector<vector<int>> insert(vector<vector<int>>& arr, vector<int>& newInterval) {
+        int n = arr.size();
         vector<vector<int>> ans;
-        intervals.push_back(newInterval);
-        sort(intervals.begin(), intervals.end());
-        for(int i=0; i<intervals.size(); i++){
-            if(ans.size()==0 || intervals[i].front()>ans.back().back()){
-                ans.push_back(intervals[i]);
-            }
-            else{
-                ans.back().back()=max(ans.back().back(), intervals[i].back());
-            }
+        int i=0;
+        // Loop for insertion of left elements
+        while(i<n && arr[i][1]<newInterval[0]){
+            ans.push_back(arr[i]);
+            i++;
+        }
+        // Loop to merge the overallping elements with new interval
+        while(i<n && arr[i][0]<=newInterval[1]){
+            newInterval[0] = min(arr[i][0], newInterval[0]);
+            newInterval[1] = max(arr[i][1], newInterval[1]);
+            i++;
+        }
+        ans.push_back(newInterval);
+        while(i<n){
+            ans.push_back(arr[i]);
+            i++;
         }
         return ans;
     }
