@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/reyren19/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/reyren19/Leetcode/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/reyren19/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/reyren19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/reyren19/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reyren19/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/reyren19/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/reyren19/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/reyren19/Leetcode/tree/master/0229-majority-element-ii) |
