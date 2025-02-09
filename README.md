@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/reyren19/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/reyren19/Leetcode/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/reyren19/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/reyren19/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/reyren19/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/reyren19/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/reyren19/Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/reyren19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/reyren19/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/reyren19/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
