@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/reyren19/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/reyren19/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/reyren19/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/reyren19/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/reyren19/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/reyren19/Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/reyren19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/reyren19/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/reyren19/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/reyren19/Leetcode/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/reyren19/Leetcode/tree/master/1184-car-pooling) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/reyren19/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/reyren19/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/reyren19/Leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/reyren19/Leetcode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/reyren19/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/reyren19/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/reyren19/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
