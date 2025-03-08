@@ -12,37 +12,22 @@
 class Solution {
 public:
     int count = 0;
-    int countNodes(TreeNode* node){
-        if(node==NULL){
-            return 0;
+    pair<int,int> dfs(TreeNode* root){
+        if(root==NULL){
+            return {0,0};
         }
-        int leftCnt = countNodes(node->left); 
-        int rightCnt = countNodes(node->right);
-        int totalCnt = leftCnt+rightCnt+1;
-        return totalCnt;       
-    }
-    int subtreeSum(TreeNode* node){
-        if(node==NULL){
-            return 0;
+        auto left = dfs(root->left);
+        auto right = dfs(root->right);
+        int totalSum = left.first+right.first+root->val;
+        int totalCount = left.second+right.second+1;
+        int average = totalSum/totalCount;
+        if(average==root->val){
+            count++;
         }
-        int leftSum = subtreeSum(node->left);
-        int rightSum = subtreeSum(node->right);
-        int totalSum = leftSum+rightSum+node->val;
-        return totalSum;
+        return {totalSum,totalCount};
     }
     int averageOfSubtree(TreeNode* root) {
-       if(root==NULL){
-        return 0;
-       }
-        int sum = subtreeSum(root);
-        int cnt = countNodes(root);
-        if(cnt!=0){
-            if(sum/cnt==root->val){
-                count++;
-            }
-        }
-        averageOfSubtree(root->left);
-        averageOfSubtree(root->right);
-       return count;
+        dfs(root);
+        return count;
     }
 };
