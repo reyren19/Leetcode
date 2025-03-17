@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/reyren19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/reyren19/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/reyren19/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/reyren19/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/reyren19/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/reyren19/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/reyren19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/reyren19/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/reyren19/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/reyren19/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/reyren19/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/reyren19/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
