@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/reyren19/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/reyren19/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0783-search-in-a-binary-search-tree](https://github.com/reyren19/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/reyren19/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/reyren19/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0783-search-in-a-binary-search-tree](https://github.com/reyren19/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/reyren19/Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/reyren19/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
