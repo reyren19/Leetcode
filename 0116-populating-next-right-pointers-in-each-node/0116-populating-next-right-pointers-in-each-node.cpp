@@ -19,25 +19,24 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
+    // using no queue approach and solving like linked list
         if(root==NULL){
             return NULL;
         }
-        queue<Node*>q;
-        q.push(root);
-        while(!q.empty()){
-            int levelSize = q.size();
-            Node* prev = NULL;
-            for(int i=0; i<levelSize; i++){
-                Node* node = q.front();
-                q.pop();
-                if(prev!=NULL){
-                    prev->next = node;
+        Node* leftMost = root;
+        // this tells us that we reached leaf
+        while(leftMost->left!=NULL){
+            Node* currNode = leftMost;
+            // traversing level
+            while(currNode!=NULL){
+                currNode->left->next = currNode->right;
+                // connecting bridge
+                if(currNode->next!=NULL){
+                    currNode->right->next = currNode->next->left;
                 }
-                prev = node;
-                if(node->left!=NULL) q.push(node->left);
-                if(node->right!=NULL) q.push(node->right);
+                currNode=currNode->next;
             }
-            prev->next =NULL;
+            leftMost = leftMost->left;
         }
         return root;
     }
