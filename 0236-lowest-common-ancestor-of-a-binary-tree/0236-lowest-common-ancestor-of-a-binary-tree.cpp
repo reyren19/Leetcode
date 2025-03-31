@@ -9,36 +9,21 @@
  */
 class Solution {
 public:
-    bool findPath(TreeNode* root, vector<TreeNode*> &path, int target){
-        if(root==NULL){
-            return false;
-        }
-        path.push_back(root);
-        if(root->val==target){
-            return true;
-        }
-        if(findPath(root->left, path, target) || findPath(root->right, path, target)){
-            return true;
-        }     
-        path.pop_back();
-        return false;
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-       vector<TreeNode*> pPath;
-       vector<TreeNode*> qPath; 
-       TreeNode* commonNode;
-       findPath(root, pPath, p->val);
-       findPath(root, qPath, q->val);
-        int k=0;
-        while(k<pPath.size() && k<qPath.size()){
-            if(pPath[k]==qPath[k]){
-                commonNode = pPath[k];
-            }
-            else{
-                break;
-            }
-            k++;
+        if(root==NULL || root==p || root==q){
+            return root;
         }
-        return commonNode;
+        TreeNode* left = lowestCommonAncestor(root->left, p,q);
+        TreeNode* right = lowestCommonAncestor(root->right, p, q);
+        if(left==NULL){
+            return right;
+        }
+        if(right==NULL){
+            return left;
+        }
+        else{
+            //if both arent null then we found our answer
+            return root;
+        }
     }
 };
