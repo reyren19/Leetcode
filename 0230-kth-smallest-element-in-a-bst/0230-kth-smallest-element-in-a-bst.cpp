@@ -9,19 +9,21 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// BRUTE= STORE ROOTS IN A VECTOR, SORT IT AND RETURN KTH ELEMENT 
 class Solution {
 public:
-    vector<int> v;
-    void inorder(TreeNode* root){
+    void solve(TreeNode* root, vector<int> &v){
         if(root==NULL){
             return;
         }
-        inorder(root->left);
-        v.push_back(root->val);
-        inorder(root->right);
+        solve(root->left, v);
+        v.push_back(root->val);        
+        solve(root->right, v);
     }
     int kthSmallest(TreeNode* root, int k) {
-        inorder(root);
+        vector<int> v;
+        solve(root,v);
         return v[k-1];
     }
 };
