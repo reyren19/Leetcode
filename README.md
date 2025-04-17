@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/reyren19/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/reyren19/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/reyren19/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/reyren19/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/reyren19/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1184-car-pooling](https://github.com/reyren19/Leetcode/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/reyren19/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/reyren19/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/reyren19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reyren19/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/reyren19/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/reyren19/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/reyren19/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reyren19/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/reyren19/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/reyren19/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/reyren19/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/reyren19/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -397,4 +402,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/reyren19/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/reyren19/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/reyren19/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/reyren19/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
