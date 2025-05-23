@@ -52,3 +52,10 @@ public:
         return cnt;
     }
 };
+
+/* MULTI BFS APPROACH- 
+    1. Make a vis array with all 0s
+    2. Push all boundary 1s in queue and mark 1 in vis array
+    3. Check all 4 directions of those 1s for more 1s that are connected, keep decrementing landCnt;
+    4. Finally, return landCnt
+*/
