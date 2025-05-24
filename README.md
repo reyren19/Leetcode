@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/reyren19/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reyren19/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/reyren19/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/reyren19/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/reyren19/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/reyren19/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/reyren19/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/reyren19/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/reyren19/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/reyren19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/reyren19/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/reyren19/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/reyren19/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/reyren19/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reyren19/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/reyren19/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -435,5 +438,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/reyren19/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/reyren19/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/reyren19/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
