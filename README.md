@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/reyren19/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/reyren19/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/reyren19/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/reyren19/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reyren19/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/reyren19/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/reyren19/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/reyren19/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/reyren19/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reyren19/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/reyren19/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/reyren19/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reyren19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/reyren19/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/reyren19/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/reyren19/Leetcode/tree/master/0402-remove-k-digits) |
 | [0721-accounts-merge](https://github.com/reyren19/Leetcode/tree/master/0721-accounts-merge) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reyren19/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
