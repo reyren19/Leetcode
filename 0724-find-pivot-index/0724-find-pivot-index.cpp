@@ -1,13 +1,21 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        int preSum = 0;
-        int totalSum = accumulate(nums.begin(), nums.end(),0);
-        for(int i=0; i<nums.size(); i++){
-            if(preSum== totalSum-preSum-nums[i]){
+        int n = nums.size();
+        vector<int> prefix(n+1,0);
+        vector<int> postfix(n+1,0);
+        for(int i=0; i<n; i++){
+            prefix[i+1] = prefix[i]+nums[i];
+        }
+        for(int i=n-1; i>=0; i--){
+            postfix[i] = postfix[i+1]+nums[i];
+        }
+
+        // compare values and return the index where they are equal 
+        for(int i=0; i<n; i++){
+            if(prefix[i]==postfix[i+1]){
                 return i;
             }
-            preSum += nums[i];            
         }
         return -1;
     }
