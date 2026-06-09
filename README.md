@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reyren19/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/reyren19/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/reyren19/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/reyren19/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/reyren19/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reyren19/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/reyren19/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/reyren19/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reyren19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/reyren19/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/reyren19/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/reyren19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/reyren19/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/reyren19/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reyren19/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/reyren19/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/reyren19/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/reyren19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/reyren19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/reyren19/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/reyren19/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/reyren19/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/reyren19/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/reyren19/Leetcode/tree/master/0242-valid-anagram) |
