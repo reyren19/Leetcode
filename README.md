@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/reyren19/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/reyren19/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/reyren19/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/reyren19/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/reyren19/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/reyren19/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/reyren19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/reyren19/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/reyren19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/reyren19/Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/reyren19/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/reyren19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/reyren19/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reyren19/Leetcode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/reyren19/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/reyren19/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/reyren19/Leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/reyren19/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/reyren19/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reyren19/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/reyren19/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/reyren19/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/reyren19/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/reyren19/Leetcode/tree/master/0721-accounts-merge) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/reyren19/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reyren19/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/reyren19/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/reyren19/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/reyren19/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/reyren19/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/reyren19/Leetcode/tree/master/1014-k-closest-points-to-origin) |
